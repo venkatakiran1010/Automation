@@ -1,2 +1,5 @@
 This is line 1 
+<<<<<<< HEAD
 This is line 2 edited by Venkat
+This is line 2 edited by Kiran
+
